@@ -4,17 +4,17 @@ A 4D game on a 2D surface. Uses classical shading for 3D distance and shape/colo
 
 AUTONOMOUS Snake Game:
 
-  4D_SNAKE_AUTO.exe - just the game (no code) -just click and watch.
+    4D_SNAKE_AUTO.exe - just the game (no code) -just click and watch.
 
-  4D_SNAKE_AUTO.py - full code to edit/run  (requires pygame)
+    4D_SNAKE_AUTO.py - full code to edit/run  (requires pygame)
 
 PLAYER Snake Game:
 
-  4d_snake_player_mode.py - full code to edit/run  (requires pygame)
+    4d_snake_player_mode.py - full code to edit/run  (requires pygame)
 
-  4d_snake_player_mode.exe - Just the game. -Just click and play.
+    4d_snake_player_mode.exe - Just the game. -Just click and play.
 
-    PLAYER INSTRUCTIONS:
+PLAYER INSTRUCTIONS:
 
       DIRECTION                 -KEY
 
