@@ -27,3 +27,6 @@ PLAYER INSTRUCTIONS:
       "Positive Skew" (4D Move)  -A
       "Negative Skew" (4D Move)  -D
 
+
+Hint: Try to match the color,size,shape, and position to get the food.
+
