@@ -8,6 +8,8 @@ AUTONOMOUS Snake Game:
 
     4D_SNAKE_AUTO.py - full code to edit/run  (requires pygame)
 
+    4D Snake Gameplay - MP4 recording of the auto snake game above.
+
 PLAYER Snake Game:
 
     4d_snake_player_mode.py - full code to edit/run  (requires pygame)
